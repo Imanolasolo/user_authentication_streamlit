@@ -7,4 +7,4 @@ openai
 langchain-community
 tiktoken
 bcrypt
-jwt
+pyJWT
