@@ -6,3 +6,4 @@ faiss-cpu
 openai
 langchain-community
 tiktoken
+bcrypt
